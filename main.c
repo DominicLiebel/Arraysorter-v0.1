@@ -8,10 +8,6 @@
 
 #include <stdio.h>
 #include "Header.h"
-#include <string.h>
-#include <time.h>
-#include <stdlib.h>
-
 int main(int argc, const char * argv[]) {
     sortArray();
     return 0;
